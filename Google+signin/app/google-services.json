@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819723255806",
+    "project_id": "gsignin-31e8c"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819723255806:android:1fe8d14bcaf6c52c",
+        "android_client_info": {
+          "package_name": "com.example.rv.gsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819723255806-c3bafb5hckq5337oglpv0gb7471j376b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rv.gsignin",
+            "certificate_hash": "1295955918f0130d26eba9cc0a1b36dd954f86a2"
+          }
+        },
+        {
+          "client_id": "819723255806-05qmq3ma77960uu7q8kgb322r6r0mahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcZYmuunUDI3LnX4kS31kZxHhDqpB3g4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
